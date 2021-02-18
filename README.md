@@ -1,4 +1,4 @@
-# Hello world!
+# Hello world
 
 My hello world project:
 1. Testdrive
